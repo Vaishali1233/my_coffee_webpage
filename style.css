@@ -1,0 +1,29 @@
+body{
+    font-family: 'Playfair Display', serif !important;
+}
+
+p{
+    margin: 1px;
+    padding: 0;
+}
+
+.text-center{
+text-align: center!important;
+}
+
+.row{
+    display: flex;  
+}
+
+.ml-auto{
+    display: flex;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card-text{
+    padding: 2px;
+}
